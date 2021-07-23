@@ -1,0 +1,10 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
